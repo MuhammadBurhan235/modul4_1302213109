@@ -8,6 +8,6 @@ namespace modul4_1302213109
 {
     internal class PosisiKarakterGame
     {
-
+        
     }
 }
