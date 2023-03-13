@@ -41,7 +41,7 @@ namespace modul4_1302213109
 
     class Program_KB
     {
-        static void Main_KB(string[] args)
+        static void Main(string[] args)
         {
             KodeBuah kodebuah = new KodeBuah();
 
